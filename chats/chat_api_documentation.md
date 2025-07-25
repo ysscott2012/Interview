@@ -1,7 +1,4 @@
-# 📘 Chat API Documentation
-
-**Base URL:** `https://api.example.com/v1`  
-**Format:** All endpoints return JSON and require `Content-Type: application/json`.
+# 📘 Chat API 
 
 ---
 
