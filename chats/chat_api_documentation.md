@@ -117,7 +117,7 @@
 
 ---
 
-## 🔹 `POST /chats/{id}/messages` *(optional)*
+## 🔹 `POST /chats/{id}/messages` 
 
 **Description:** Add a message to a chat (useful for testing or mock behavior).
 
